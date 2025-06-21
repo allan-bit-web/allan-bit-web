@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ,am Kinuthia👋
 ![](https://komarev.com/ghpvc/?username=allan-bit-web&color=green)
 <h3>When I code, I rely on</h3>
 <p>
