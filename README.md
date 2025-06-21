@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=allan-bit-web)
+![](https://komarev.com/ghpvc/?username=allan-bit-web&color=green)
 <!--
 **allan-bit-web/allan-bit-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
