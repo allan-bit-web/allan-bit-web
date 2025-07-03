@@ -14,8 +14,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=allan-bit-web&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-bit-web&show_icons=true&theme=radical)
 
 <!--<h3>My most recent articles</h3>
