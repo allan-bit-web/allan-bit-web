@@ -12,11 +12,14 @@
 
 ## ⚡️ Stats
 <br>
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=allan-bit-web&theme=dark)](https://git.io/streak-stats)
-
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=allan-bit-web&theme=radical" alt="GitHub Streak" /></a>
+  <img width=480 src="https://github-readme-stats.vercel.app/api?username=allan-bit-web&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-bit-web&theme=radical"/>
+</div>
 
 <hr>
+
 
 <!--<h3>My most recent articles</h3>
 <ul>
