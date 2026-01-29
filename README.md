@@ -12,9 +12,9 @@
 
 ## ⚡️ Stats
 <br>
-<div align=center>
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=allan-bit-web&theme=dark)](https://git.io/streak-stats)
-</div>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=allan-bit-web&theme=dark)](https://git.io/streak-stats)
+
 
 <hr>
 
