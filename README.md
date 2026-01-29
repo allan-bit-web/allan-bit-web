@@ -1,6 +1,10 @@
-## Hi there ,am Kinuthia👋
+<div style="background-color:yellow">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=600&color=8E80F7&background=000000&width=435&lines=Hi%2Cam+allan;a+passionate+software+engineer;ready+to+solve+real+world+problems" alt="Typing SVG" /></a>
+</div>
+
 
 ![](https://komarev.com/ghpvc/?username=allan-bit-web&color=green)
+<br>
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -9,6 +13,7 @@
 
   <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white&logoSize=auto">
 </p>
+
 
 ## ⚡️ Stats
 <br>
