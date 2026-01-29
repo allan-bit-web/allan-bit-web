@@ -1,5 +1,5 @@
 <div style="background-color:yellow">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=600&color=8E80F7&background=000000&width=435&lines=Hi%2Cam+allan;a+Data-Driven;ready+to+solve+real+world+problems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=600&color=8E80F7&background=000000&width=435&lines=Hi%2Cam+allan;a+Data-Driven+Professional;ready+to+solve+real+world+problems" alt="Typing SVG" /></a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=allan-bit-web&color=green)
