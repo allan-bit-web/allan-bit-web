@@ -5,6 +5,9 @@
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Spreadsheets-green?style=flat-square&logo=googlesheets&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi&logoColor=black">
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-bit-web&show_icons=true&theme=radical)
