@@ -10,7 +10,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white&logoSize=auto">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-bit-web&show_icons=true&theme=radical)
+## ⚡️ Stats
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=allan-bit-web&theme=radical" alt="GitHub Streak" /></a>
+  <img width=480 src="https://github-readme-stats.vercel.app/api?username=allan-bit-web&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-bit-web&theme=radical"/>
+</div>
+
+<hr>
 
 <!--<h3>My most recent articles</h3>
 <ul>
