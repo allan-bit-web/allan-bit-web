@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=allan-bit-web&color=green)
 
-<br>
+<hr>
 
 <h3>When I code, I rely on</h3>
 <p>
