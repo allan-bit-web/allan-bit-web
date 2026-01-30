@@ -13,7 +13,8 @@
 </p>
 
 ## ⚡️ Stats
-<br>[![GitHub Streak](https://streak-stats.demolab.com?user=allan-bit-web&theme=radical)](https://git.io/streak-stats)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=allan-bit-web&theme=radical)](https://git.io/streak-stats)
 <div align=center>
   <img width=480 src="https://github-readme-stats.vercel.app/api?username=allan-bit-web&theme=radical&count_private=true&show_icons=true&locale=en" alt="allan-bit-web's GitHub Stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-bit-web&theme=radical"/>
