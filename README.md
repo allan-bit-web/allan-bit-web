@@ -4,7 +4,7 @@
 
 ## ![](https://komarev.com/ghpvc/?username=allan-bit-web&color=green)
 
-<h3>When I code, I rely on</h3>
+## 💻 Tech Stack
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Spreadsheets-green?style=flat-square&logo=googlesheets&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi&logoColor=black&logoSize=auto">
@@ -12,14 +12,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white&logoSize=auto">
 </p>
 
-## ⚡️ Stats
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=allan-bit-web&theme=github-compact)
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=allan-bit-web&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allan-bit-web&theme=react-dark)
-## 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
