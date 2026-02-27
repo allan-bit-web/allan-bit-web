@@ -14,5 +14,5 @@
 
 ## ⚡️ Stats
 <br>[![GitHub Streak](https://streak-stats.demolab.com?user=allan-bit-web&theme=radical)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-bit-web&show_icons=true&theme=radical)
+![dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-bit-web&show_icons=true&theme=radical)
 <hr>
