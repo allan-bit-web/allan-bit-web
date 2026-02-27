@@ -15,6 +15,4 @@
 ## ⚡️ Stats
 
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-bit-web&layout=compact&theme=radical&cache_seconds=1800)
+![Trophy](https://github-profile-trophy.vercel.app/?username=allan-bit-web&theme=radical)
