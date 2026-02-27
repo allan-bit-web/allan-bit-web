@@ -15,4 +15,6 @@
 ## ⚡️ Stats
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allan-bit-web&repo=allan-bit-web)](https://github.com/allan-bit-web/allan-bit-web)
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-bit-web&layout=compact&theme=radical)
