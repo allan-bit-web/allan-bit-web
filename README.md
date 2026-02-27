@@ -15,5 +15,4 @@
 ## ⚡️ Stats
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allan-bit-web&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allan-bit-web&repo=allan-bit-web)](https://github.com/allan-bit-web/allan-bit-web)
