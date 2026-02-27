@@ -14,6 +14,7 @@
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=allan-bit-web&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allan-bit-web&theme=react-dark)
+
 
 
