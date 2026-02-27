@@ -16,3 +16,4 @@
 
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=allan-bit-web&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allan-bit-web&theme=react-dark)
