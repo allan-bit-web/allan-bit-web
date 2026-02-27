@@ -17,3 +17,9 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=allan-bit-web&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allan-bit-web&theme=react-dark)
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
